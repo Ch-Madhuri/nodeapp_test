@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: madhurichinta99/sweety:v1
+        image: madhurichinta99/frooty:v1
         ports:
         - containerPort: 3000
